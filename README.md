@@ -17,7 +17,7 @@ Reforestator Merupakan permainan arkade yang terinspirasi dari game mario bros T
 Tampilan in Game ini sebagai berikut:
 ![tampilanGame](https://user-images.githubusercontent.com/114007640/209443378-34014342-9cd7-4627-b38b-f88c2283fb7f.png)
 
- 
+---
 
 ### Cara Bermain
 1. ^      : Melompat
@@ -25,6 +25,7 @@ Tampilan in Game ini sebagai berikut:
 3. .>      : berlari ke kanan
 4. <      : berlari ke kiri
 5. Enter  : Next State
+
 ---
 
 ### Referensi
