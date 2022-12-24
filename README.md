@@ -22,7 +22,7 @@ Tampilan in Game ini sebagai berikut:
 ### Cara Bermain
 1. ^      : Melompat
 2. v      : mendarat
-3. >      : berlari ke kanan
+3. .>      : berlari ke kanan
 4. <      : berlari ke kiri
 5. Enter  : Next State
 ---
